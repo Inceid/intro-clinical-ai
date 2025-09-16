@@ -16,7 +16,7 @@ This session assumes no prior knowledge of Artificial Intelligence.
 	- understand and circumvent LLM vulnerabilities, particularly hallucination and sycophancy;
 	- be able to explain explain AI design, risks, and benefits to patients
 
-# **How to use this site** 
+# How to use this site
 Browse the table of contents or the sidebar for pages. Or follow along! 
 
 ## Agenda 
