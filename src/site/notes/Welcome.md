@@ -21,8 +21,11 @@ Browse the table of contents or the sidebar for pages. Or follow along!
 
 ## Agenda 
 We'll review these pages in order.
-1. Welcome 
-2. 
+1. [[Welcome\|Welcome]]
+2. [[AI Models in Healthcare\|AI Models in Healthcare]]
+3. [[Large Language Models\|Large Language Models]]
+	1. [[Practice Prompting\|Practice Prompting]]
+4. [[Agents\|Agents]]
 
 ---
 # AI Models in Healthcare
