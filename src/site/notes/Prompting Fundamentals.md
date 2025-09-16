@@ -208,17 +208,5 @@ This happens because the model is trained to be helpful and agreeable, sometimes
 - **Transparency:** Make it clear to users that LLMs can make mistakes and encourage critical evaluation of outputs.
 - **Human Oversight:** For high-stakes applications, always include human review of LLM outputs.
 
----
-
-**Summary Table:**
-
-| Pitfall      | Description | Mitigation Strategies |
-| | | |
-| Hallucination | Model generates false or made-up information | RAG, fact-checking, prompt engineering, fine-tuning |
-| Sycophancy | Model agrees with user even when incorrect | Instruction tuning, adversarial training, explicit disagreement prompts, user feedback |
-
----
-
-Let me know if you’d like more detail on any specific mitigation technique!
 # Demo 
 That should be enough to get us started. Moving to [Practice](<Practice Prompting>)!
