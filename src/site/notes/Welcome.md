@@ -28,7 +28,7 @@ We'll review these pages in order.
 4. [[Agents\|Agents]]
 
 ---
-# AI Models in Healthcare
+## AI Models in Healthcare
 We will start with an [overview of AI models in HC](<AI Models in Healthcare>)
 
 ## Further Reading 
