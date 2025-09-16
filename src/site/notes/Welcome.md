@@ -29,10 +29,10 @@ We'll review these pages in order.
 
 ---
 ## AI Models in Healthcare
-We will start with an [overview of AI models in HC](<AI Models in Healthcare>)
+We will start with an overview of [[AI Models in Healthcare\|AI Models in Healthcare]].
 
 ## Further Reading 
-To tinker with advanced AI and keep up with research, see [[Frontier Models\|Frontier Models]]
+To tinker with advanced AI and keep up with research, see [[Frontier Models\|Frontier Models]].
 
 ## [[I want your feedback\|I want your feedback]]
 Please leave any feedback here: [`bit.ly/icw-ai-fdbk`](<https://bit.ly/icw-ai-fdbk>):
