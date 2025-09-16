@@ -11,7 +11,7 @@ Examples like [goblin.tools](<https://goblin.tools/>) can
 
 An **autonomous agent** exhibits independence. Given a goal, it will perform a complex set of tasks within its resource/search constraints to achieve that goal.
 
-Free, user-friendly examples include AgentGPT.
+Free, user-friendly examples include [AgentGPT](https://agentgpt.reworkd.ai/).
 
 >**Note!** Considerations for AgentGPT
 >	- the tool explicitly shows its work and search process.
