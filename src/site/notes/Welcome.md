@@ -4,7 +4,7 @@
 
 *Updated 09.16.2025*
 
-Consider your [reflections](<Introduction Prompts>) on your experience with AI in rotations.
+Consider your reflections from [[Introduction Prompts) on your experience with AI in rotations.
 
 # Hi!
 This is a course website for the Interclerkship Week session "Catching up to speed on Clinical Artificial Intelligence: Prompting, Scribes, Risk Prediction, Agents, Frameworks". 
@@ -61,6 +61,20 @@ Uses include summarizing patient notes, answering medical questions, drafting do
 It's important to [use the right tool for the right use case](<LLM Comparison>).
 
 ----
+
+## Agents 
+Agents include goblin.tools
+
+Agents typically differ with respect to their level of **autonomy** - how independently they can carry out tasks, and how large the task in question is. 
+
+A **reactive, single-turn agent** like [goblin.tools](<https://goblin.tools/>) can
+- break down tasks
+- create recipe ideas
+- estimate time taken to complete a task.
+
+An **autonomous agent**
+
+---
 
 ## Further Reading 
 - To tinker with advanced AI and keep up with research, see [[Frontier Models\|Frontier Models]]
