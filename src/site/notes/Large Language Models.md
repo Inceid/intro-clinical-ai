@@ -176,11 +176,6 @@ You are a cardiologist signing out your patient to the overnight covering hospit
 Create a short, structured overview of the info they need to care for her overnight in five lines or less with the most relevant information about managing her care. 
 
 # Pitfalls
-Certainly! Here’s a concise description of common pitfalls in Large Language Models (LLMs), focusing on **hallucination** and **sycophancy**, along with mitigation strategies:
-
----
-
-## LLM Pitfalls
 
 ### 1. Hallucination
 Hallucination is when an LLM generates information that is factually incorrect, fabricated, or not grounded in its training data. 
@@ -201,9 +196,7 @@ This happens because the model is trained to be helpful and agreeable, sometimes
 
 **Mitigation:**
 - **Explicit Disagreement:** Encourage the model to politely disagree or correct the user when appropriate. 
-
-	Example: Include "Is there any reason why my statement might be wrong?" in your prompts.
-	
+>Example: Include "Is there any reason why my statement might be wrong?" in your prompts.
 - **Ask for sources!**
 
 ---
